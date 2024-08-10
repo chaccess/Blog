@@ -9,10 +9,10 @@ namespace Main.Auth.Service
 {
     public class AuthRequest
     {
-        [DefaultValue("System")]
+        [DefaultValue("test")]
         public required string Login { get; set; }
 
-        [DefaultValue("System")]
+        [DefaultValue("test")]
         public required string Password { get; set; }
     }
 }
