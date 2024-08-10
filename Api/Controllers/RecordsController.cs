@@ -1,10 +1,11 @@
 using Api.ViewModels;
 using AutoMapper;
-using Main.Queries;
-using Main.Commands;
+using Main.Api.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System.Runtime.InteropServices.Marshalling;
+using Microsoft.AspNetCore.Authorization;
+using Main.Api.Commands;
 
 namespace blog_app.Controllers
 {
@@ -15,7 +16,8 @@ namespace blog_app.Controllers
         private readonly IMediator _mediator = mediator;
         private readonly IMapper _mapper = mapper;
 
-        [HttpPost(Name = "SaveRecord")]
+        [HttpPost("SaveRecord")]
+        [Authorize]
         public async Task<IActionResult> SaveRecord([FromBody] RecordViewModel viewModel)
         {
             if (viewModel is null)

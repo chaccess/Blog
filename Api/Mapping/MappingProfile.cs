@@ -1,7 +1,7 @@
 ﻿using Api.ViewModels;
 using AutoMapper;
-using Main.Commands;
-using Main.Models;
+using Main.Api.Commands;
+using Main.Api.Models;
 
 namespace Api.Mapping
 {
@@ -10,6 +10,7 @@ namespace Api.Mapping
         public MappingProfile()
         {
             CreateMap<RecordViewModel, SaveRecordCommand>();
+            CreateMap<SaveRecordCommand, Record>();
         }
     }
 }

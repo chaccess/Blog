@@ -3,52 +3,48 @@
   "WorkspaceRootPath": "D:\\Projects\\Blog\\app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|d:\\projects\\blog\\app\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|d:\\projects\\blog\\app\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\queries\\getauthorqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\queries\\getauthorqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CFC412D-B7E2-4948-A31A-E7FB76682394}|Authentication\\Authentication.csproj|d:\\projects\\blog\\app\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC412D-B7E2-4948-A31A-E7FB76682394}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\queries\\getauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\queries\\getauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|d:\\projects\\blog\\app\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\migrations\\20240809223326_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\migrations\\20240809223326_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CFC412D-B7E2-4948-A31A-E7FB76682394}|Authentication\\Authentication.csproj|d:\\projects\\blog\\app\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFC412D-B7E2-4948-A31A-E7FB76682394}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|d:\\projects\\blog\\app\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|d:\\projects\\blog\\app\\api\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|solutionrelative:api\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\api\\commands\\saverecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\api\\commands\\saverecordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|d:\\projects\\blog\\app\\api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D1653-851E-4F42-8111-FD007E3F0A12}|Api\\Api.csproj|solutionrelative:api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CFC412D-B7E2-4948-A31A-E7FB76682394}|Authentication\\Authentication.csproj|d:\\projects\\blog\\app\\authentication\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFC412D-B7E2-4948-A31A-E7FB76682394}|Authentication\\Authentication.csproj|solutionrelative:authentication\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\auth\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\auth\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Blog\\app\\Api\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CFC412D-B7E2-4948-A31A-E7FB76682394}|Authentication\\Authentication.csproj|d:\\projects\\blog\\app\\authentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFC412D-B7E2-4948-A31A-E7FB76682394}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|d:\\projects\\blog\\app\\main\\api\\common\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E527C5-DD1D-467D-8BE8-3A0CC09D5D82}|Main\\Main.csproj|solutionrelative:main\\api\\common\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,154 +54,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Main.csproj",
-              "RelativeDocumentMoniker": "Main\\Main.csproj",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Main.csproj",
-              "RelativeToolTip": "Main\\Main.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-10T11:38:17.531Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Authentication\\Helpers\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Authentication\\Helpers\\JwtMiddleware.cs",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Authentication\\Helpers\\JwtMiddleware.cs",
+              "RelativeToolTip": "Authentication\\Helpers\\JwtMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:39:46.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Api",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Api\\Api.csproj",
-              "RelativeDocumentMoniker": "Api\\Api.csproj",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Api\\Api.csproj",
-              "RelativeToolTip": "Api\\Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-10T11:38:14.366Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T16:35:37.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetAuthorQueryHandler.cs",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Queries\\GetAuthorQueryHandler.cs",
-              "RelativeDocumentMoniker": "Main\\Queries\\GetAuthorQueryHandler.cs",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Queries\\GetAuthorQueryHandler.cs",
-              "RelativeToolTip": "Main\\Queries\\GetAuthorQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:52:41.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAuthorQuery.cs",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Queries\\GetAuthorQuery.cs",
-              "RelativeDocumentMoniker": "Main\\Queries\\GetAuthorQuery.cs",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Queries\\GetAuthorQuery.cs",
-              "RelativeToolTip": "Main\\Queries\\GetAuthorQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:52:10.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:49:48.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240809223326_InitialMigration.cs",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Migrations\\20240809223326_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Main\\Migrations\\20240809223326_InitialMigration.cs",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Migrations\\20240809223326_InitialMigration.cs",
-              "RelativeToolTip": "Main\\Migrations\\20240809223326_InitialMigration.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:33:26.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Main\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Main\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:21:26.53Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T16:35:16.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Main\\Models\\Author.cs",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Models\\Author.cs",
-              "RelativeToolTip": "Main\\Models\\Author.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Authentication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Authentication\\appsettings.Development.json",
+              "RelativeToolTip": "Authentication\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T16:31:07.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Auth\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Main\\Auth\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Auth\\Service\\AuthService.cs",
+              "RelativeToolTip": "Main\\Auth\\Service\\AuthService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwBMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:01:32.617Z"
+              "WhenOpened": "2024-08-10T16:13:37.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Main\\Models\\BaseEntity.cs",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Main\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Api\\Common\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Main\\Api\\Common\\AppSettings.cs",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Api\\Common\\AppSettings.cs",
+              "RelativeToolTip": "Main\\Api\\Common\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T21:57:56.89Z"
+              "WhenOpened": "2024-08-10T16:10:04.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Blog\\app\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
               "ToolTip": "D:\\Projects\\Blog\\app\\Api\\Program.cs",
               "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABZAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T20:50:37.669Z",
+              "WhenOpened": "2024-08-10T16:00:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecordsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Api\\Controllers\\RecordsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\RecordsController.cs",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Api\\Controllers\\RecordsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\RecordsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:03:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:39:58.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Api\\appsettings.Development.json",
-              "RelativeToolTip": "Api\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-09T21:52:20.043Z"
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Api\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Api\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Api\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Api\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:09:17.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Record.cs",
-              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Models\\Record.cs",
-              "RelativeDocumentMoniker": "Main\\Models\\Record.cs",
-              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Models\\Record.cs",
-              "RelativeToolTip": "Main\\Models\\Record.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "DocumentIndex": 5,
+              "Title": "SaveRecordCommandHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog\\app\\Main\\Api\\Commands\\SaveRecordCommandHandler.cs",
+              "RelativeDocumentMoniker": "Main\\Api\\Commands\\SaveRecordCommandHandler.cs",
+              "ToolTip": "D:\\Projects\\Blog\\app\\Main\\Api\\Commands\\SaveRecordCommandHandler.cs",
+              "RelativeToolTip": "Main\\Api\\Commands\\SaveRecordCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T21:44:37.998Z"
+              "WhenOpened": "2024-08-10T18:09:42.212Z",
+              "EditorCaption": ""
             }
           ]
         }

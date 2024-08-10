@@ -140,3 +140,13 @@ D:\Projects\Blog\app\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.r
 D:\Projects\Blog\app\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projects\Blog\app\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projects\Blog\app\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\AutoMapper.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Blog\app\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Blog\app\Api\obj\Debug\net8.0\Api.sourcelink.json
