@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Runtime.InteropServices.Marshalling;
 using Microsoft.AspNetCore.Authorization;
 using Main.Api.Commands;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace blog_app.Controllers
 {
@@ -17,7 +18,7 @@ namespace blog_app.Controllers
         private readonly IMapper _mapper = mapper;
 
         [HttpPost("SaveRecord")]
-        [Authorize]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         public async Task<IActionResult> SaveRecord([FromBody] RecordViewModel viewModel)
         {
             if (viewModel is null)

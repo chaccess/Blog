@@ -17,6 +17,7 @@ using Microsoft.Extensions.Options;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 // Add services to the container.
 
@@ -64,6 +65,7 @@ builder.Services.AddAuthentication(options =>
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
     options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultSignInScheme = JwtBearerDefaults.AuthenticationScheme;
 }).AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, o =>
 {
     o.TokenValidationParameters = new TokenValidationParameters
@@ -92,6 +94,10 @@ builder.Services.AddDbContext<ApplicationDBContext>(
     opt => opt.UseNpgsql(
         builder.Configuration.GetConnectionString("BlogDB")
     ));
+builder.Services.AddDbContext<AuthDBContext>(
+    opt => opt.UseNpgsql(
+        builder.Configuration.GetConnectionString("BlogDB")
+    ));
 builder.Services.AddScoped<IApplicationDBRepository, ApplicationDBRepository>();
 
 var app = builder.Build();
@@ -104,6 +110,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<JwtMiddleware>();
 
 app.UseAuthorization();
 app.UseAuthentication();
